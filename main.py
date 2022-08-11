@@ -7,8 +7,8 @@ import pytesseract
 import time
 
 # 学号和密码
-id="3200608026"
-keywords="020127@dyf"
+id=""
+keywords=""
 # 创建 WebDriver 对象，指明使用chrome浏览器驱动
 wd = webdriver.Chrome(r'd:\webdrivers\chromedriver.exe')
 
